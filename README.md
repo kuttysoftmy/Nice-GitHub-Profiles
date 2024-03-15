@@ -1,4 +1,6 @@
 # GitHub profiles that I found inspiring and interesting
+* [Dewera](https://github.com/Dewera?tab=repositories)
+* [JDewera](https://github.com/jdewera?tab=repositories)
 * [AdvDebug](https://github.com/AdvDebug?tab=repositories)
 * [NYAN-x-CAT](https://github.com/NYAN-x-CAT?tab=repositories)
 * [strivexjun](https://github.com/strivexjun?tab=repositories)
